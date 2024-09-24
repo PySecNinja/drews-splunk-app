@@ -1,3 +1,7 @@
+
+1. `default/data/ui/views/hec_sender.xml`: Keep this file as is.
+
+```1:23:default/data/ui/views/hec_sender.xml
 <form theme="dark">
   <label>HEC Data Sender</label>
   <fieldset submitButton="true" autoRun="false">
@@ -21,3 +25,4 @@
     </panel>
   </row>
 </form>
+```
