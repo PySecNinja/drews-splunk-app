@@ -1,0 +1,10 @@
+<dashboard script="hec_data_sender/hec_data_sender.js" stylesheet="hec_data_sender/hec_data_sender.css">
+    <label>HEC Data Sender</label>
+    <row>
+        <panel>
+            <html>
+                <div id="hec-data-sender-container"></div>
+            </html>
+        </panel>
+    </row>
+</dashboard>
